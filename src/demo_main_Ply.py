@@ -4,7 +4,6 @@ import os
 from os.path import join
 import random
 from tqdm import tqdm
-import torch
 base_dir = os.getcwd()
 
 
