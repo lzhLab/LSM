@@ -14,9 +14,9 @@ Context-aware liver lesion segmentation
 |copysmallobjects2_Ply(dtype=Ply_Gaussian)             | Ply_Gaussian        | aug_Ply_Gaussian.py|
 |copysmallobjects2_Ply(dtype=Ply_Rev_Gaussian)         | Ply_Rev_Gaussian    | aug_Ply_Gaussian.py|
 
--copysmallobjects2_CaP: copy-and-paste lesion to another place without context;
--copysmallobjects2_Scale: scale-up/down lesion size to increase diversity;
--copysmallobjects2_Rotation: rotate lesion with an arbitrary angle to increase diversity;
--copysmallobjects2_Cir: circular context-aware augmentation;
--copysmallobjects2_Rec: rectangular context-aware augmentation;
--copysmallobjects2_Ply: polygonal context-aware augmentation.
+- copysmallobjects2_CaP: copy-and-paste lesion to another place without context;
+- copysmallobjects2_Scale: scale-up/down lesion size to increase diversity;
+- copysmallobjects2_Rotation: rotate lesion with an arbitrary angle to increase diversity;
+- copysmallobjects2_Cir: circular context-aware augmentation;
+- copysmallobjects2_Rec: rectangular context-aware augmentation;
+- copysmallobjects2_Ply: polygonal context-aware augmentation.
