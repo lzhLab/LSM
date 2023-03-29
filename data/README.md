@@ -1,2 +1,1 @@
-There are 706 cases of liver lesion segmentation here. We have two other papers that are being written related to this data set. Only part of the continuous sequence of each case is uploaded. If any researcher needs a complete data set, please contact the author.
-volume-*.nii normalize to (0,1), seg-*.nii 0 is background, 1 is lesion. 
+The dataset contains 706 volumes of liver CT images, and each volume has at least one lesion. The lesions are masked by `1', while the rest are `0'. To avoid abuse of the data, only partial images are provide. For the access of the entire data, please contact Dr. Zhao at s080011@e.ntu.edu.sg.
