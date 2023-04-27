@@ -1,2 +1,2 @@
-The dataset contains 706 volumes of liver CT images, and each volume has at least one lesion. The lesions are masked by '1', while the rest are '0'. 
-The platform cannot upload all data, if anyone wants complete data for research, they can email the authors.
+The dataset contains 706 volumes of liver CT images, and each volume has at least one lesion. The lesions are masked with '1', while the rest are masked with '0'. 
+Since the original data is huge and the uploaded files are limited, we are not able to post all the original files here. For those researchers who would like to access the full data, please contact the corresponding author at s080011@e.ntu.edu.sg.
